@@ -12,7 +12,7 @@ import re
 from datetime import datetime, time
 
 # تنظیمات
-TOKEN = ':AAG-pTBfbT8XzCGlhJAvTlQdi405SRWq9FI'  # توکن ربات
+TOKEN = '7641932576:AAG-pTBfbT8XzCGlhJAvTlQdi405SRWq9FI'  # توکن ربات
 START_PASSWORD = 'Afshar20157'  # رمز شروع به کار
 WORKING_HOURS = (time(8, 0), time(23, 59))  # ساعت کاری (۸ صبح تا ۱۲ شب)
 
